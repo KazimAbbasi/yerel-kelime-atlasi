@@ -1,5 +1,7 @@
 # Yerel Kelime Atlası
 
+[GitHub kaynak kodu](https://github.com/KazimAbbasi/yerel-kelime-atlasi)
+
 Yerel Kelime Atlası, bir kavramın farklı yörelerdeki karşılıklarını yan yana gösteren Türkçe bir öğrenci projesidir. Ziyaretçi, **Atlas** görünümünde kelimeleri araştırabilir. **Derleme panosu**, kayıtları düzenlemek ve hangi kayıtların atlasta görüneceğine karar vermek için kullanılır.
 
 ## Özellikler
@@ -56,3 +58,7 @@ Varsayılan yerel modda asistan, anlam alanını onaylı kavram başlıklarıyla
 - [Atlas](screenshots/atlas.jpg)
 - [Derleme panosu](screenshots/derleme-panosu.jpg)
 - [Kayit duzenleme](screenshots/kelime-duzenle.jpg)
+
+## Proje ekran görüntüsü
+
+![Yerel Kelime Atlası](screenshots/atlas.jpg)

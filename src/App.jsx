@@ -64,7 +64,7 @@ export default function App() {
     <a className="skip" href="#content">İçeriğe geç</a>
     <header className="header"><div className="shell header-inner">
       <button className="brand" type="button" onClick={() => navigate('atlas')}>
-        <img src="/atlas.svg" alt="" width="42" height="42" />
+        <img src={import.meta.env.BASE_URL + "atlas.svg"} alt="" width="42" height="42" />
         <span><strong>Yerel Kelime Atlası</strong><small>Türkiye’nin söz arşivi</small></span>
       </button>
       <nav aria-label="Ana menü">{NAV.map(item => <button type="button" className={view === item.id ? 'current' : ''} aria-current={view === item.id ? 'page' : undefined} key={item.id} onClick={() => navigate(item.id)}>

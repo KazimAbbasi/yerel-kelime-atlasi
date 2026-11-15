@@ -1,6 +1,6 @@
 # Yerel Kelime Atlası
 
-[Vercel yayın bağlantısı](https://yerel-kelime-atlasi.vercel.app/) · [GitHub kaynak kodu](https://github.com/KazimAbbasi/yerel-kelime-atlasi)
+[Canlı proje](https://kazimabbasi.github.io/yerel-kelime-atlasi/) · [GitHub kaynak kodu](https://github.com/KazimAbbasi/yerel-kelime-atlasi)
 
 Yerel Kelime Atlası, bir kavramın farklı yörelerdeki karşılıklarını yan yana gösteren Türkçe bir öğrenci projesidir. Ziyaretçi, **Atlas** görünümünde kelimeleri araştırabilir. **Derleme panosu**, kayıtları düzenlemek ve hangi kayıtların atlasta görüneceğine karar vermek için kullanılır.
 
@@ -63,8 +63,7 @@ Varsayılan yerel modda asistan, anlam alanını onaylı kavram başlıklarıyla
 
 ![Yerel Kelime Atlası](screenshots/atlas.jpg)
 
-## Vercel yayını
 
-Vercel paneli dağıtımı Ready olarak gösteriyor. Kontrol sırasında bu bilgisayardan yayın bağlantısına erişimde SSL bağlantı hatası alındı; dışarıdan erişim henüz doğrulanamadı.
+## Canlı yayın
 
-Bu sürüm doğrudan dosya yüklenerek yayımlandı. Sonraki kod değişikliklerinden sonra yeni derleme dosyaları Vercel'e tekrar yüklenmelidir. Yayındaki asistan yerel eşleştirme modunda çalışır.
+Proje [GitHub Pages üzerinde](https://kazimabbasi.github.io/yerel-kelime-atlasi/) yayımlanmıştır. Yayın dosyaları gh-pages dalında bulunur. Tarayıcıda canlı sayfanın yüklendiği doğrulanmıştır. Vercel adresinde bağlantı hatası görüldüğü için teslimde GitHub Pages bağlantısını kullanın.
